@@ -1,0 +1,3 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/">
+	<Include file="LibVendorValue-2.0\LibVendorValue-2.0.lua"/>
+</Ui>

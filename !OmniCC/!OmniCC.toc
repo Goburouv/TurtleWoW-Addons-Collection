@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: OmniCC
+## Notes: CooldownCount for Everything
+## Author: Shagu, Otari98
+## Legacy Author: Tuller & kebabstorm
+## Version: 1.3.3.7
+## SavedVariables: OmniCC
+OmniCC.lua

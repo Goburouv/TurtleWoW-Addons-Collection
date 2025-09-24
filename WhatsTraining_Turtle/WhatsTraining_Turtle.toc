@@ -1,0 +1,28 @@
+## Interface: 11200
+## Title: What's Training? Turtle
+## Version: 1.0.5
+## Author: Sveng, Turtle Port by spawnedc
+## Notes: Shows you what spells are available at your class trainer
+
+Lib\LibStub\LibStub.lua
+Lib\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Lib\LibDataBroker-1.1\LibDataBroker-1.1.lua
+
+Environment.lua
+Constants.lua
+Utils.lua
+SpellsByLevel.lua
+PlayerData.lua
+
+Classes\Turtle\Druid.lua
+Classes\Turtle\Hunter.lua
+Classes\Turtle\Mage.lua
+Classes\Turtle\Paladin.lua
+Classes\Turtle\Priest.lua
+Classes\Turtle\Rogue.lua
+Classes\Turtle\Shaman.lua
+Classes\Turtle\Warlock.lua
+Classes\Turtle\Warrior.lua
+
+WhatsTrainingUI.lua
+WhatsTraining.lua

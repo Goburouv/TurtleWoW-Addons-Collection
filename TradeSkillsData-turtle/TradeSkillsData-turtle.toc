@@ -1,0 +1,34 @@
+## Interface: 11200
+## Title: TradeSkillsData [|cff3fcf26Turtle|r]
+## Author: Refaim
+## Notes: A Turtle WoW database extension for TradeSkillsData
+## Version: 1.16
+## Dependencies: TradeSkillsData
+
+data.lua
+
+db\factions.lua
+db\npcs.lua
+db\quests.lua
+db\zones.lua
+
+db\professions\alchemy\items.lua
+db\professions\alchemy\skills.lua
+db\professions\blacksmithing\items.lua
+db\professions\blacksmithing\skills.lua
+db\professions\cooking\items.lua
+db\professions\cooking\skills.lua
+db\professions\enchanting\items.lua
+db\professions\enchanting\skills.lua
+db\professions\engineering\items.lua
+db\professions\engineering\skills.lua
+db\professions\firstaid\items.lua
+db\professions\firstaid\skills.lua
+db\professions\leatherworking\items.lua
+db\professions\leatherworking\skills.lua
+db\professions\mining\items.lua
+db\professions\mining\skills.lua
+db\professions\tailoring\items.lua
+db\professions\tailoring\skills.lua
+
+main.lua
